@@ -27,6 +27,7 @@ Our group is investigating whether candy sold in a country (with parameters like
 ## Schema
 ### Open Food Facts
 
+- **Number of Columns:** 211
 | Column | Data Type |
 |---|---|
 | `code` | String |
