@@ -29,32 +29,34 @@ Our group is investigating whether candy sold in a country (with parameters like
 
 - **Number of Columns:** 211
 
-| Column | Data Type |
-|---|---|
-| `code` | String |
-| `product_name` | String |
-| `categories_tags` | String |
-| `countries_tags` | String |
-| `ingredients_tags` | String |
-| `sugars_100g` | Double |
-| `additives_n` | Integer |
-| `additives_tags` | String |
-| `nova_group` | Integer |
+### Open Food Facts
+
+| Column | Data Type | Description |
+|---|---|---|
+| `code` | String | Product id |
+| `product_name` | String | Name of product |
+| `categories_tags` | String | Category of product |
+| `countries_tags` | String | Countries where the product is sold |
+| `ingredients_tags` | String | Ingredients in the product |
+| `sugars_100g` | Double | Grams of sugar per 100 grams |
+| `additives_n` | Integer | Number of additives in the product |
+| `additives_tags` | String | Types of additives in the product |
+| `nova_group` | Integer | Level of food processing 1-4 scale |
 
 ### World Happiness Report
 
-| Column | Data Type |
-|---|---|
-| `Year` | Integer |
-| `Rank` | Integer |
-| `Country name` | String |
-| `Life evaluation (3-year average)` | Double |
-| `Log GDP per capita` | Double |
-| `Social support` | Double |
-| `Healthy life expectancy` | Double |
-| `Freedom to make life choices` | Double |
-| `Generosity` | Double |
-| `Perceptions of corruption` | Double |
+| Column | Data Type | Description |
+|---|---|---|
+| `Year` | Integer | Year of observation |
+| `Rank` | Integer | National happiness ranking |
+| `Country name` | String | Name country |
+| `Life evaluation (3-year average)` | Double | Average national happiness over three years |
+| `Log GDP per capita` | Double | Contribution of GDP per capita to happiness |
+| `Social support` | Double | Contribution of social support to happiness |
+| `Healthy life expectancy` | Double | Healthy life expectancy |
+| `Freedom to make life choices` | Double | Personal freedom |
+| `Generosity` | Double | Generosity |
+| `Perceptions of corruption` | Double | Perceived corruption |
 
 ### Repo Structure
 
