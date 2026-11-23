@@ -24,7 +24,7 @@ Our group is investigating whether candy sold in a country (with parameters like
 - **URL:** https://worldhappiness.report/data
 - **Description:** Has 13 columns with features like Year, Rank, Country Name, and explanatory reasoning columns.
 
-##Schema
+## Schema
 ### Open Food Facts
 
 | Column | Data Type |
