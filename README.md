@@ -28,6 +28,7 @@ Our group is investigating whether candy sold in a country (with parameters like
 ### Open Food Facts
 
 - **Number of Columns:** 211
+- As a group, we decided the 9 columns listed below will be the most useful to make our statement. These nine columns have the most important data to make a good comparison between goods sold in different countries and their correlation to the happiness scale.
 
 ### Open Food Facts
 
