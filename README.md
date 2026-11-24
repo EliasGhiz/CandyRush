@@ -51,12 +51,15 @@ Our group is investigating whether candy sold in a country (with parameters like
 | `Rank` | Integer | National happiness ranking |
 | `Country name` | String | Name country |
 | `Life evaluation (3-year average)` | Double | Average national happiness over three years |
+| `Lower whisker` | Double | Lower confidence interval bound |
+| `Upper whisker` | Double | Upper confidence interval bound |
 | `Log GDP per capita` | Double | Contribution of GDP per capita to happiness |
 | `Social support` | Double | Contribution of social support to happiness |
 | `Healthy life expectancy` | Double | Healthy life expectancy |
 | `Freedom to make life choices` | Double | Personal freedom |
 | `Generosity` | Double | Generosity |
 | `Perceptions of corruption` | Double | Perceived corruption |
+| `Dystopia + residual` | Double | Baseline happiness plus unexplained variation |
 
 ### Repo Structure
 
